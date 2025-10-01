@@ -117,4 +117,4 @@ Devabrat, M., 2022. _Predictive Maintenance on Ship's Main Engine using AI._ Ava
 
 
 ______________________________________________________________
-Word count (main text only, excluding cover, tables, figures, captions, and references): 835 words
+_Word count (main text only, excluding cover, tables, figures, captions, and references): 835 words_
